@@ -1,0 +1,44 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon -e js,json,env -r dotenv/config src/index.js",
+    "start": "node src/index.js",
+    "seed": "node src/seed.js",
+    "seed-admin": "node scripts/seedAdmin.js",
+    "import-wards": "node scripts/importWards.js",
+    "import-wards-prayagraj": "node scripts/importWards.js --city=prayagraj",
+    "import-wards-gorakhpur": "node scripts/importWards.js --city=gorakhpur",
+    "db:check": "node --env-file=.env scripts/dbCheck.js",
+    "db:setup": "node --env-file=.env scripts/dbSetup.js",
+    "test": "node --test --test-concurrency=1"
+  },
+  "author": "HackSmith",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.11",
+    "prettier": "^3.7.4"
+  },
+  "dependencies": {
+    "axios": "^1.13.2",
+    "bcrypt": "^6.0.0",
+    "cloudinary": "^2.8.0",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "google-auth-library": "^10.5.0",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.0.2",
+    "multer": "^2.0.2",
+    "multer-storage-cloudinary": "^2.2.1",
+    "mysql2": "^3.24.6",
+    "nodemailer": "^7.0.12",
+    "openai": "^6.15.0",
+    "uuid": "^13.0.0"
+  }
+}
