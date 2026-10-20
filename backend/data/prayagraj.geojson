@@ -1,0 +1,2732 @@
+{
+  "type": "FeatureCollection",
+  "name": "prayagraj",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 1,
+        "ward_name": "Civil Lines"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.78,
+              25.38
+            ],
+            [
+              81.795,
+              25.38
+            ],
+            [
+              81.795,
+              25.401249999999997
+            ],
+            [
+              81.78,
+              25.401249999999997
+            ],
+            [
+              81.78,
+              25.38
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 2,
+        "ward_name": "Teliyarganj"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.795,
+              25.38
+            ],
+            [
+              81.81,
+              25.38
+            ],
+            [
+              81.81,
+              25.401249999999997
+            ],
+            [
+              81.795,
+              25.401249999999997
+            ],
+            [
+              81.795,
+              25.38
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 3,
+        "ward_name": "Old Cantt"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.81,
+              25.38
+            ],
+            [
+              81.825,
+              25.38
+            ],
+            [
+              81.825,
+              25.401249999999997
+            ],
+            [
+              81.81,
+              25.401249999999997
+            ],
+            [
+              81.81,
+              25.38
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 4,
+        "ward_name": "Govindpur"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.825,
+              25.38
+            ],
+            [
+              81.84,
+              25.38
+            ],
+            [
+              81.84,
+              25.401249999999997
+            ],
+            [
+              81.825,
+              25.401249999999997
+            ],
+            [
+              81.825,
+              25.38
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 5,
+        "ward_name": "Ashok Nagar"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.84,
+              25.38
+            ],
+            [
+              81.855,
+              25.38
+            ],
+            [
+              81.855,
+              25.401249999999997
+            ],
+            [
+              81.84,
+              25.401249999999997
+            ],
+            [
+              81.84,
+              25.38
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 6,
+        "ward_name": "Mumfordganj"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.855,
+              25.38
+            ],
+            [
+              81.87,
+              25.38
+            ],
+            [
+              81.87,
+              25.401249999999997
+            ],
+            [
+              81.855,
+              25.401249999999997
+            ],
+            [
+              81.855,
+              25.38
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 7,
+        "ward_name": "George Town"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.87,
+              25.38
+            ],
+            [
+              81.885,
+              25.38
+            ],
+            [
+              81.885,
+              25.401249999999997
+            ],
+            [
+              81.87,
+              25.401249999999997
+            ],
+            [
+              81.87,
+              25.38
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 8,
+        "ward_name": "Chowk"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.885,
+              25.38
+            ],
+            [
+              81.9,
+              25.38
+            ],
+            [
+              81.9,
+              25.401249999999997
+            ],
+            [
+              81.885,
+              25.401249999999997
+            ],
+            [
+              81.885,
+              25.38
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 9,
+        "ward_name": "Daraganj"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.9,
+              25.38
+            ],
+            [
+              81.915,
+              25.38
+            ],
+            [
+              81.915,
+              25.401249999999997
+            ],
+            [
+              81.9,
+              25.401249999999997
+            ],
+            [
+              81.9,
+              25.38
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 10,
+        "ward_name": "Jhunsi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.915,
+              25.38
+            ],
+            [
+              81.93,
+              25.38
+            ],
+            [
+              81.93,
+              25.401249999999997
+            ],
+            [
+              81.915,
+              25.401249999999997
+            ],
+            [
+              81.915,
+              25.38
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 11,
+        "ward_name": "Naini"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.78,
+              25.401249999999997
+            ],
+            [
+              81.795,
+              25.401249999999997
+            ],
+            [
+              81.795,
+              25.4225
+            ],
+            [
+              81.78,
+              25.4225
+            ],
+            [
+              81.78,
+              25.401249999999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 12,
+        "ward_name": "Attarsuiya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.795,
+              25.401249999999997
+            ],
+            [
+              81.81,
+              25.401249999999997
+            ],
+            [
+              81.81,
+              25.4225
+            ],
+            [
+              81.795,
+              25.4225
+            ],
+            [
+              81.795,
+              25.401249999999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 13,
+        "ward_name": "Rajapur"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.81,
+              25.401249999999997
+            ],
+            [
+              81.825,
+              25.401249999999997
+            ],
+            [
+              81.825,
+              25.4225
+            ],
+            [
+              81.81,
+              25.4225
+            ],
+            [
+              81.81,
+              25.401249999999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 14,
+        "ward_name": "Kydganj"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.825,
+              25.401249999999997
+            ],
+            [
+              81.84,
+              25.401249999999997
+            ],
+            [
+              81.84,
+              25.4225
+            ],
+            [
+              81.825,
+              25.4225
+            ],
+            [
+              81.825,
+              25.401249999999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 15,
+        "ward_name": "Tagore Town"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.84,
+              25.401249999999997
+            ],
+            [
+              81.855,
+              25.401249999999997
+            ],
+            [
+              81.855,
+              25.4225
+            ],
+            [
+              81.84,
+              25.4225
+            ],
+            [
+              81.84,
+              25.401249999999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 16,
+        "ward_name": "Dhoomanganj"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.855,
+              25.401249999999997
+            ],
+            [
+              81.87,
+              25.401249999999997
+            ],
+            [
+              81.87,
+              25.4225
+            ],
+            [
+              81.855,
+              25.4225
+            ],
+            [
+              81.855,
+              25.401249999999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 17,
+        "ward_name": "Lukerganj"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.87,
+              25.401249999999997
+            ],
+            [
+              81.885,
+              25.401249999999997
+            ],
+            [
+              81.885,
+              25.4225
+            ],
+            [
+              81.87,
+              25.4225
+            ],
+            [
+              81.87,
+              25.401249999999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 18,
+        "ward_name": "Muthiganj"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.885,
+              25.401249999999997
+            ],
+            [
+              81.9,
+              25.401249999999997
+            ],
+            [
+              81.9,
+              25.4225
+            ],
+            [
+              81.885,
+              25.4225
+            ],
+            [
+              81.885,
+              25.401249999999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 19,
+        "ward_name": "Katra"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.9,
+              25.401249999999997
+            ],
+            [
+              81.915,
+              25.401249999999997
+            ],
+            [
+              81.915,
+              25.4225
+            ],
+            [
+              81.9,
+              25.4225
+            ],
+            [
+              81.9,
+              25.401249999999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 20,
+        "ward_name": "Allapur"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.915,
+              25.401249999999997
+            ],
+            [
+              81.93,
+              25.401249999999997
+            ],
+            [
+              81.93,
+              25.4225
+            ],
+            [
+              81.915,
+              25.4225
+            ],
+            [
+              81.915,
+              25.401249999999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 21,
+        "ward_name": "Kareli"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.78,
+              25.4225
+            ],
+            [
+              81.795,
+              25.4225
+            ],
+            [
+              81.795,
+              25.44375
+            ],
+            [
+              81.78,
+              25.44375
+            ],
+            [
+              81.78,
+              25.4225
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 22,
+        "ward_name": "Bairahana"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.795,
+              25.4225
+            ],
+            [
+              81.81,
+              25.4225
+            ],
+            [
+              81.81,
+              25.44375
+            ],
+            [
+              81.795,
+              25.44375
+            ],
+            [
+              81.795,
+              25.4225
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 23,
+        "ward_name": "Soraon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.81,
+              25.4225
+            ],
+            [
+              81.825,
+              25.4225
+            ],
+            [
+              81.825,
+              25.44375
+            ],
+            [
+              81.81,
+              25.44375
+            ],
+            [
+              81.81,
+              25.4225
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 24,
+        "ward_name": "Phaphamau"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.825,
+              25.4225
+            ],
+            [
+              81.84,
+              25.4225
+            ],
+            [
+              81.84,
+              25.44375
+            ],
+            [
+              81.825,
+              25.44375
+            ],
+            [
+              81.825,
+              25.4225
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 25,
+        "ward_name": "Karchana"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.84,
+              25.4225
+            ],
+            [
+              81.855,
+              25.4225
+            ],
+            [
+              81.855,
+              25.44375
+            ],
+            [
+              81.84,
+              25.44375
+            ],
+            [
+              81.84,
+              25.4225
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 26,
+        "ward_name": "Shahganj"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.855,
+              25.4225
+            ],
+            [
+              81.87,
+              25.4225
+            ],
+            [
+              81.87,
+              25.44375
+            ],
+            [
+              81.855,
+              25.44375
+            ],
+            [
+              81.855,
+              25.4225
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 27,
+        "ward_name": "Rambagh"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.87,
+              25.4225
+            ],
+            [
+              81.885,
+              25.4225
+            ],
+            [
+              81.885,
+              25.44375
+            ],
+            [
+              81.87,
+              25.44375
+            ],
+            [
+              81.87,
+              25.4225
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 28,
+        "ward_name": "New Cantt"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.885,
+              25.4225
+            ],
+            [
+              81.9,
+              25.4225
+            ],
+            [
+              81.9,
+              25.44375
+            ],
+            [
+              81.885,
+              25.44375
+            ],
+            [
+              81.885,
+              25.4225
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 29,
+        "ward_name": "Jhalwa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.9,
+              25.4225
+            ],
+            [
+              81.915,
+              25.4225
+            ],
+            [
+              81.915,
+              25.44375
+            ],
+            [
+              81.9,
+              25.44375
+            ],
+            [
+              81.9,
+              25.4225
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 30,
+        "ward_name": "Dhanpur"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.915,
+              25.4225
+            ],
+            [
+              81.93,
+              25.4225
+            ],
+            [
+              81.93,
+              25.44375
+            ],
+            [
+              81.915,
+              25.44375
+            ],
+            [
+              81.915,
+              25.4225
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 31,
+        "ward_name": "Mau Aima"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.78,
+              25.44375
+            ],
+            [
+              81.795,
+              25.44375
+            ],
+            [
+              81.795,
+              25.465
+            ],
+            [
+              81.78,
+              25.465
+            ],
+            [
+              81.78,
+              25.44375
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 32,
+        "ward_name": "Shivkuti"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.795,
+              25.44375
+            ],
+            [
+              81.81,
+              25.44375
+            ],
+            [
+              81.81,
+              25.465
+            ],
+            [
+              81.795,
+              25.465
+            ],
+            [
+              81.795,
+              25.44375
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 33,
+        "ward_name": "Pipalganj"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.81,
+              25.44375
+            ],
+            [
+              81.825,
+              25.44375
+            ],
+            [
+              81.825,
+              25.465
+            ],
+            [
+              81.81,
+              25.465
+            ],
+            [
+              81.81,
+              25.44375
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 34,
+        "ward_name": "Chatham Lines"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.825,
+              25.44375
+            ],
+            [
+              81.84,
+              25.44375
+            ],
+            [
+              81.84,
+              25.465
+            ],
+            [
+              81.825,
+              25.465
+            ],
+            [
+              81.825,
+              25.44375
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 35,
+        "ward_name": "Bharatganj"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.84,
+              25.44375
+            ],
+            [
+              81.855,
+              25.44375
+            ],
+            [
+              81.855,
+              25.465
+            ],
+            [
+              81.84,
+              25.465
+            ],
+            [
+              81.84,
+              25.44375
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 36,
+        "ward_name": "Pura Mufti"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.855,
+              25.44375
+            ],
+            [
+              81.87,
+              25.44375
+            ],
+            [
+              81.87,
+              25.465
+            ],
+            [
+              81.855,
+              25.465
+            ],
+            [
+              81.855,
+              25.44375
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 37,
+        "ward_name": "Salori"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.87,
+              25.44375
+            ],
+            [
+              81.885,
+              25.44375
+            ],
+            [
+              81.885,
+              25.465
+            ],
+            [
+              81.87,
+              25.465
+            ],
+            [
+              81.87,
+              25.44375
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 38,
+        "ward_name": "Katra Kotwali"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.885,
+              25.44375
+            ],
+            [
+              81.9,
+              25.44375
+            ],
+            [
+              81.9,
+              25.465
+            ],
+            [
+              81.885,
+              25.465
+            ],
+            [
+              81.885,
+              25.44375
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 39,
+        "ward_name": "Baluaghat"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.9,
+              25.44375
+            ],
+            [
+              81.915,
+              25.44375
+            ],
+            [
+              81.915,
+              25.465
+            ],
+            [
+              81.9,
+              25.465
+            ],
+            [
+              81.9,
+              25.44375
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 40,
+        "ward_name": "Purai"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.915,
+              25.44375
+            ],
+            [
+              81.93,
+              25.44375
+            ],
+            [
+              81.93,
+              25.465
+            ],
+            [
+              81.915,
+              25.465
+            ],
+            [
+              81.915,
+              25.44375
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 41,
+        "ward_name": "Havelia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.78,
+              25.465
+            ],
+            [
+              81.795,
+              25.465
+            ],
+            [
+              81.795,
+              25.48625
+            ],
+            [
+              81.78,
+              25.48625
+            ],
+            [
+              81.78,
+              25.465
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 42,
+        "ward_name": "Sarai Inayat"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.795,
+              25.465
+            ],
+            [
+              81.81,
+              25.465
+            ],
+            [
+              81.81,
+              25.48625
+            ],
+            [
+              81.795,
+              25.48625
+            ],
+            [
+              81.795,
+              25.465
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 43,
+        "ward_name": "Dandi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.81,
+              25.465
+            ],
+            [
+              81.825,
+              25.465
+            ],
+            [
+              81.825,
+              25.48625
+            ],
+            [
+              81.81,
+              25.48625
+            ],
+            [
+              81.81,
+              25.465
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 44,
+        "ward_name": "Deohat"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.825,
+              25.465
+            ],
+            [
+              81.84,
+              25.465
+            ],
+            [
+              81.84,
+              25.48625
+            ],
+            [
+              81.825,
+              25.48625
+            ],
+            [
+              81.825,
+              25.465
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 45,
+        "ward_name": "Garwa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.84,
+              25.465
+            ],
+            [
+              81.855,
+              25.465
+            ],
+            [
+              81.855,
+              25.48625
+            ],
+            [
+              81.84,
+              25.48625
+            ],
+            [
+              81.84,
+              25.465
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 46,
+        "ward_name": "Gauhaniya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.855,
+              25.465
+            ],
+            [
+              81.87,
+              25.465
+            ],
+            [
+              81.87,
+              25.48625
+            ],
+            [
+              81.855,
+              25.48625
+            ],
+            [
+              81.855,
+              25.465
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 47,
+        "ward_name": "Ghorahwa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.87,
+              25.465
+            ],
+            [
+              81.885,
+              25.465
+            ],
+            [
+              81.885,
+              25.48625
+            ],
+            [
+              81.87,
+              25.48625
+            ],
+            [
+              81.87,
+              25.465
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 48,
+        "ward_name": "Harirampur"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.885,
+              25.465
+            ],
+            [
+              81.9,
+              25.465
+            ],
+            [
+              81.9,
+              25.48625
+            ],
+            [
+              81.885,
+              25.48625
+            ],
+            [
+              81.885,
+              25.465
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 49,
+        "ward_name": "Iradatganj"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.9,
+              25.465
+            ],
+            [
+              81.915,
+              25.465
+            ],
+            [
+              81.915,
+              25.48625
+            ],
+            [
+              81.9,
+              25.48625
+            ],
+            [
+              81.9,
+              25.465
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 50,
+        "ward_name": "Jariyari"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.915,
+              25.465
+            ],
+            [
+              81.93,
+              25.465
+            ],
+            [
+              81.93,
+              25.48625
+            ],
+            [
+              81.915,
+              25.48625
+            ],
+            [
+              81.915,
+              25.465
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 51,
+        "ward_name": "Jhusi Khas"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.78,
+              25.48625
+            ],
+            [
+              81.795,
+              25.48625
+            ],
+            [
+              81.795,
+              25.5075
+            ],
+            [
+              81.78,
+              25.5075
+            ],
+            [
+              81.78,
+              25.48625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 52,
+        "ward_name": "Kadipur"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.795,
+              25.48625
+            ],
+            [
+              81.81,
+              25.48625
+            ],
+            [
+              81.81,
+              25.5075
+            ],
+            [
+              81.795,
+              25.5075
+            ],
+            [
+              81.795,
+              25.48625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 53,
+        "ward_name": "Kailashpuri"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.81,
+              25.48625
+            ],
+            [
+              81.825,
+              25.48625
+            ],
+            [
+              81.825,
+              25.5075
+            ],
+            [
+              81.81,
+              25.5075
+            ],
+            [
+              81.81,
+              25.48625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 54,
+        "ward_name": "Khuldabad"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.825,
+              25.48625
+            ],
+            [
+              81.84,
+              25.48625
+            ],
+            [
+              81.84,
+              25.5075
+            ],
+            [
+              81.825,
+              25.5075
+            ],
+            [
+              81.825,
+              25.48625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 55,
+        "ward_name": "Koeripur"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.84,
+              25.48625
+            ],
+            [
+              81.855,
+              25.48625
+            ],
+            [
+              81.855,
+              25.5075
+            ],
+            [
+              81.84,
+              25.5075
+            ],
+            [
+              81.84,
+              25.48625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 56,
+        "ward_name": "Kolhuwa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.855,
+              25.48625
+            ],
+            [
+              81.87,
+              25.48625
+            ],
+            [
+              81.87,
+              25.5075
+            ],
+            [
+              81.855,
+              25.5075
+            ],
+            [
+              81.855,
+              25.48625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 57,
+        "ward_name": "Korari"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.87,
+              25.48625
+            ],
+            [
+              81.885,
+              25.48625
+            ],
+            [
+              81.885,
+              25.5075
+            ],
+            [
+              81.87,
+              25.5075
+            ],
+            [
+              81.87,
+              25.48625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 58,
+        "ward_name": "Kotwa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.885,
+              25.48625
+            ],
+            [
+              81.9,
+              25.48625
+            ],
+            [
+              81.9,
+              25.5075
+            ],
+            [
+              81.885,
+              25.5075
+            ],
+            [
+              81.885,
+              25.48625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 59,
+        "ward_name": "Kumhwa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.9,
+              25.48625
+            ],
+            [
+              81.915,
+              25.48625
+            ],
+            [
+              81.915,
+              25.5075
+            ],
+            [
+              81.9,
+              25.5075
+            ],
+            [
+              81.9,
+              25.48625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 60,
+        "ward_name": "Lalapur"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.915,
+              25.48625
+            ],
+            [
+              81.93,
+              25.48625
+            ],
+            [
+              81.93,
+              25.5075
+            ],
+            [
+              81.915,
+              25.5075
+            ],
+            [
+              81.915,
+              25.48625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 61,
+        "ward_name": "Mauhari"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.78,
+              25.5075
+            ],
+            [
+              81.795,
+              25.5075
+            ],
+            [
+              81.795,
+              25.528750000000002
+            ],
+            [
+              81.78,
+              25.528750000000002
+            ],
+            [
+              81.78,
+              25.5075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 62,
+        "ward_name": "Mavi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.795,
+              25.5075
+            ],
+            [
+              81.81,
+              25.5075
+            ],
+            [
+              81.81,
+              25.528750000000002
+            ],
+            [
+              81.795,
+              25.528750000000002
+            ],
+            [
+              81.795,
+              25.5075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 63,
+        "ward_name": "Mawaiya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.81,
+              25.5075
+            ],
+            [
+              81.825,
+              25.5075
+            ],
+            [
+              81.825,
+              25.528750000000002
+            ],
+            [
+              81.81,
+              25.528750000000002
+            ],
+            [
+              81.81,
+              25.5075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 64,
+        "ward_name": "Mirpur"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.825,
+              25.5075
+            ],
+            [
+              81.84,
+              25.5075
+            ],
+            [
+              81.84,
+              25.528750000000002
+            ],
+            [
+              81.825,
+              25.528750000000002
+            ],
+            [
+              81.825,
+              25.5075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 65,
+        "ward_name": "Mishirpur"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.84,
+              25.5075
+            ],
+            [
+              81.855,
+              25.5075
+            ],
+            [
+              81.855,
+              25.528750000000002
+            ],
+            [
+              81.84,
+              25.528750000000002
+            ],
+            [
+              81.84,
+              25.5075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 66,
+        "ward_name": "Muradpur"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.855,
+              25.5075
+            ],
+            [
+              81.87,
+              25.5075
+            ],
+            [
+              81.87,
+              25.528750000000002
+            ],
+            [
+              81.855,
+              25.528750000000002
+            ],
+            [
+              81.855,
+              25.5075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 67,
+        "ward_name": "Nagwa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.87,
+              25.5075
+            ],
+            [
+              81.885,
+              25.5075
+            ],
+            [
+              81.885,
+              25.528750000000002
+            ],
+            [
+              81.87,
+              25.528750000000002
+            ],
+            [
+              81.87,
+              25.5075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 68,
+        "ward_name": "Nathupur"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.885,
+              25.5075
+            ],
+            [
+              81.9,
+              25.5075
+            ],
+            [
+              81.9,
+              25.528750000000002
+            ],
+            [
+              81.885,
+              25.528750000000002
+            ],
+            [
+              81.885,
+              25.5075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 69,
+        "ward_name": "Nehariya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.9,
+              25.5075
+            ],
+            [
+              81.915,
+              25.5075
+            ],
+            [
+              81.915,
+              25.528750000000002
+            ],
+            [
+              81.9,
+              25.528750000000002
+            ],
+            [
+              81.9,
+              25.5075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 70,
+        "ward_name": "Newada"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.915,
+              25.5075
+            ],
+            [
+              81.93,
+              25.5075
+            ],
+            [
+              81.93,
+              25.528750000000002
+            ],
+            [
+              81.915,
+              25.528750000000002
+            ],
+            [
+              81.915,
+              25.5075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 71,
+        "ward_name": "Pandari"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.78,
+              25.528750000000002
+            ],
+            [
+              81.795,
+              25.528750000000002
+            ],
+            [
+              81.795,
+              25.55
+            ],
+            [
+              81.78,
+              25.55
+            ],
+            [
+              81.78,
+              25.528750000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 72,
+        "ward_name": "Parsara"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.795,
+              25.528750000000002
+            ],
+            [
+              81.81,
+              25.528750000000002
+            ],
+            [
+              81.81,
+              25.55
+            ],
+            [
+              81.795,
+              25.55
+            ],
+            [
+              81.795,
+              25.528750000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 73,
+        "ward_name": "Paschim Patti"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.81,
+              25.528750000000002
+            ],
+            [
+              81.825,
+              25.528750000000002
+            ],
+            [
+              81.825,
+              25.55
+            ],
+            [
+              81.81,
+              25.55
+            ],
+            [
+              81.81,
+              25.528750000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 74,
+        "ward_name": "Pataitha"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.825,
+              25.528750000000002
+            ],
+            [
+              81.84,
+              25.528750000000002
+            ],
+            [
+              81.84,
+              25.55
+            ],
+            [
+              81.825,
+              25.55
+            ],
+            [
+              81.825,
+              25.528750000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 75,
+        "ward_name": "Patti"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.84,
+              25.528750000000002
+            ],
+            [
+              81.855,
+              25.528750000000002
+            ],
+            [
+              81.855,
+              25.55
+            ],
+            [
+              81.84,
+              25.55
+            ],
+            [
+              81.84,
+              25.528750000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 76,
+        "ward_name": "Pipri"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.855,
+              25.528750000000002
+            ],
+            [
+              81.87,
+              25.528750000000002
+            ],
+            [
+              81.87,
+              25.55
+            ],
+            [
+              81.855,
+              25.55
+            ],
+            [
+              81.855,
+              25.528750000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 77,
+        "ward_name": "Pureni"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.87,
+              25.528750000000002
+            ],
+            [
+              81.885,
+              25.528750000000002
+            ],
+            [
+              81.885,
+              25.55
+            ],
+            [
+              81.87,
+              25.55
+            ],
+            [
+              81.87,
+              25.528750000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 78,
+        "ward_name": "Rampur"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.885,
+              25.528750000000002
+            ],
+            [
+              81.9,
+              25.528750000000002
+            ],
+            [
+              81.9,
+              25.55
+            ],
+            [
+              81.885,
+              25.55
+            ],
+            [
+              81.885,
+              25.528750000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 79,
+        "ward_name": "Sahari"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.9,
+              25.528750000000002
+            ],
+            [
+              81.915,
+              25.528750000000002
+            ],
+            [
+              81.915,
+              25.55
+            ],
+            [
+              81.9,
+              25.55
+            ],
+            [
+              81.9,
+              25.528750000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_no": 80,
+        "ward_name": "Sarai Mamrez"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.915,
+              25.528750000000002
+            ],
+            [
+              81.93,
+              25.528750000000002
+            ],
+            [
+              81.93,
+              25.55
+            ],
+            [
+              81.915,
+              25.55
+            ],
+            [
+              81.915,
+              25.528750000000002
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
